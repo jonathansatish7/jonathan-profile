@@ -1,5 +1,4 @@
-### Hey, Thanks for taking a peek! 🥳
-![Name gif](https://github.com/surajgupta-git/surajgupta-git/blob/main/name.gif)
+### Jonathan Tirupuranthakam
 
 <p align="left"> 
   <img src=https://komarev.com/ghpvc/?username=surajgupta-git alt=surajgupta/> &nbsp; 
