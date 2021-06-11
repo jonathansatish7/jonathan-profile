@@ -1,19 +1,9 @@
-### Jonathan Tirupuranthakam
-
-<p align="left"> 
-  <img src=https://komarev.com/ghpvc/?username=surajgupta-git alt=surajgupta/> &nbsp; 
-  <a href="https://www.linkedin.com/in/surajguptagudla/">
-    <img src="https://img.shields.io/badge/SurajGupta-blue?style=flat&logo=linkedin">
-  </a> &nbsp;    
-</p>
+## Jonathan Tirupuranthakam
 
 **About me.** <br/>
-🎓 Computer Science Graduate Student [Indiana University Bloomington](https://cs.indiana.edu/)<br>
-Software engineer with 2.5 years of professional experience committed to build intuitive solutions which solve everyday problems.<br> 
-Love to indulge in conversations about the Why's, What's and How's of a product.<br>
-A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.<br />
-
-[🌟Know More🌟](https://surajgupta-git.github.io/portfolio-2/)
+🎓 Data Science Graduate Student at [Indiana University Bloomington](https://datascience.indiana.edu/)<br>
+System Engineer with 2.7 years of professional experience committed to build intuitive solutions which solve everyday problems.<br> 
+Love to learn and apply technology.<br>
 
 ### Languages and Tools:
 
