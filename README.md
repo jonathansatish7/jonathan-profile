@@ -27,16 +27,14 @@ Love to learn and apply technology.<br>
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="Icons\iconmonstr-github-1.svg" />][GitHub]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="Icons/linkedin-logo.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="Icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="Icons/facebook-logo.svg" />][FaceBook]
 
 <br/>
 
 ---
 
 
-<a href="https://github.com/surajgupta-git">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgupta-git&show_icons=true&theme=dark&line_height=27" alt="Suraj Gupta's github stats"/>
+<a href="https://github.com/jonathansatish7">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathansatish7&show_icons=true&theme=dark&line_height=27" alt="Jonathan Tirupuranthakam's github stats"/>
 </a>
 
 [GitHub]: https://github.com/jonathansatish7
